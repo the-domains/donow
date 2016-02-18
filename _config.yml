@@ -1,0 +1,28 @@
+name: DONOW
+favicon: null
+layout_spectrum: 0.528324929298833
+typography_spectrum: 0.20167620130814612
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.3621695514302701
+  lightness: 0.9403733434155583
+  saturation: 0.45736101758666337
+  rhythmicContrast: 0.44952711509540677
+purpose: []
